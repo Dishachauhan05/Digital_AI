@@ -1,4 +1,4 @@
--- CreateTable
+
 CREATE TABLE "File" (
     "id" SERIAL NOT NULL,
     "fileName" TEXT NOT NULL,
